@@ -3,68 +3,30 @@ This repository contains a collection of 10 beginner-to-intermediate Python cons
 
 ✅ Projects Completed so far
 Day 9
-
-User Login System (with attempt limit & lockout)
-
-Menu-Driven App
-
-Greet user
-
-Add two numbers
-
-Palindrome checker
+#1 User Login System (with attempt limit & lockout)
+#2 Menu-Driven App : Greet user, Add two numbers, Palindrome checker
 
 Day 10
-
-Simple Banking System
-
-Check balance
-
-Deposit
-
-Withdraw
-
-Expense Tracker
-
-Add expense
-
-View total spent
-
-View all expenses
+#3 Simple Banking System : Check balance, Deposit, Withdraw
+#4 Expense Tracker :Add expense, View total spent, View all expenses
 
 Day 11
-
-Mini Calculator
-
-+, −, ×, ÷
-
-Looping + retry logic
-
-🚧 Currently Working On
-Day 12 (ONGOING)
-
-Inventory Management System ✅ (in progress)
-
-Add item ✔
-
-Update item ✔ (just fixed)
-
-Remove item ⏳
-
-View inventory ⏳
-
+#5 Mini Calculator : +, −, ×, ÷ + Looping + retry logic
+#6 Inventory Management System : Add item, Update item, Remove item, View inventory
 Advanced input normalization (synonyms, typos, plurals) ✔
 
 🔜 Projects Still To Build
 Option B (Beginner–Intermediate)
 
-Contact Book App
+#7 Contact Book App
 
-Caesar Cipher (Encryption / Decryption)
+#8 Caesar Cipher (Encryption / Decryption)
 
 Option C (Slightly Advanced)
 
-Personal Diary (File-Based)
+#9 Personal Diary (File-Based)
 
-Weather Summary App (Static Data)on the previous one, gradually increasing difficulty and reinforcing real programming logic.  
+#10 Weather Summary App (Static Data)
+
+each difficult than the previous one, gradually increasing difficulty and reinforcing real programming logic.  
 This repository reflects my consistent progress and growing confidence with Python fundamentals.
